@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="https://arnaugarciamilan.com">Portfolio</a> ·
-  <a href="https://github.com/EL_TEU_USER">GitHub</a> ·
-  <a href="mailto:el.teu.mail@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/EL_TEU_LINKEDIN">LinkedIn</a>
+  <a href="https://github.com/arnaugarciamilan">GitHub</a> ·
+  <a href="mailto:arnaugarciamilan@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/arnau-garc%C3%ADa-mil%C3%A1n-5133342a2/">LinkedIn</a>
 </p>
 
 ---
@@ -32,4 +32,3 @@ M’agrada fer webs modernes, ràpides i molt cuidades visualment.
 - [ ] 1 projecte gran amb login + API (futur)
 
 ---
-<p align="center">✨ Sempre millorant. Sempre construint.</p>
