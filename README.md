@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arnaugarciamilan.com">Portfolio</a> ·
+  <a href="https://arnaugarciamilan.github.io/portfolio">Portfolio</a> ·
   <a href="https://github.com/arnaugarciamilan">GitHub</a> ·
   <a href="mailto:arnaugarciamilan@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/arnau-garc%C3%ADa-mil%C3%A1n-5133342a2/">LinkedIn</a>
