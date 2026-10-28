@@ -57,7 +57,6 @@ Soy un desarrollador apasionado por la creación de productos digitales completo
 ### 📫 Conecta conmigo
 
 <a href="https://www.linkedin.com/in/arnau-garcía-milán-5133342a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:arnaugarciamilan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<a href="mailto:arnaugarciamilan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <b>arnaugarciamilan@gmail.com</b>
 <br>
 <p align="center"><i>Construyendo puentes entre el código y los datos.</i></p>
