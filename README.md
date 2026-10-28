@@ -10,8 +10,6 @@
   <a href="https://www.linkedin.com/in/arnau-garc%C3%ADa-mil%C3%A1n-5133342a2/">LinkedIn</a>
 </p>
 
-# Hola, soy Arnau García Milán 👋
-
 **Junior Web Developer (DAW) | Estudiante de Máster en IA & Big Data**
 
 Soy un desarrollador apasionado por la creación de productos digitales completos. Mi perfil combina la solidez del desarrollo de aplicaciones web (Frontend y Backend) con el potencial del análisis de datos y la inteligencia artificial. Me encanta construir interfaces intuitivas y conectarlas con modelos de datos eficientes.
