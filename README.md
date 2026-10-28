@@ -49,7 +49,6 @@ Soy un desarrollador apasionado por la creación de productos digitales completo
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnaugarciamilan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de Arnau" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaugarciamilan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" width="48%" />
 </div>
 
